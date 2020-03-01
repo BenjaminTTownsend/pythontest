@@ -9,7 +9,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 
 
-token = "NjY5Njg1Njg4NTAwODc5Mzkw.Xlu_ag.-cIfTaqJBXAowQFN7lGAdkGbJn0"
+token = "NjY5Njg1Njg4NTAwODc5Mzkw.XlvBcA.bxozvHGEn_1jE4nUVv-6hKE5cyQ"
 key = "e91ba361-3ad8-4083-8bb6-9c57fb97c4d6"
 blood_guild_id = "53c81676ed50878f4ccc75be"
 guild_id = "5988f8340cf2851f860c9a7b"
